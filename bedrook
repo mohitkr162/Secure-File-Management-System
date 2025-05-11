@@ -1,0 +1,8 @@
+<BedrockPassportProvider
+  baseUrl="https://api.bedrockpassport.com"
+  authCallbackUrl="http://<mohitkr162>/auth/callback"
+  tenantId="orange-k830lnmonk"
+  subscriptionKey="c745814a02ab4aeb889b8bf38eebcb32"
+>
+  {children}
+</BedrockPassportProvider>
